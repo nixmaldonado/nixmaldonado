@@ -1,6 +1,6 @@
 # Nicolas Maldonado
 
-Backend engineer based in Argentina. 7 years of experience building 
+Backend engineer based in Argentina. 8 years of experience building 
 distributed systems, primarily in Go and Python on AWS.
 
 Currently working on AI/ML infrastructure — document processing 
